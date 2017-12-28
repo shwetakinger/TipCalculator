@@ -4,7 +4,7 @@ TipCalculator is a tip calculator application for iOS.
 
 Submitted by: Shweta Kinger
 
-Time spent: 2.5 hours spent in total
+Time spent: 3 hours spent in total
 
 ## User Stories
 
@@ -27,13 +27,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/mimll' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+One challenge I faced while building the app included fitting the text boxes onto the screen. I was not sure why one text box was not fitting onto the simulator, but I was able to resize it to fit well.
+In addition, I spent some time learning the syntax of the Swift language to familiarize myself with it further.  
+
 
 ## License
 
